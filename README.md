@@ -3,7 +3,7 @@
 This project utilizes the LEGO dataset to practice Python skills, specifically focusing on numpy, pandas, and matplotlib libraries.
 
 ## About the Dataset
-![LEGO Database Schema](data/downloads_schema.png)
+![LEGO Database Schema](Data/downloads_schema.png)
 
 ### Context
 LEGO is a renowned brand of toy building bricks, often sold in sets aimed at constructing a particular object. Each set comprises numerous parts varying in shapes, sizes, and colors. This database was initially created to assist LEGO set owners in determining additional sets they could assemble with their existing pieces.
